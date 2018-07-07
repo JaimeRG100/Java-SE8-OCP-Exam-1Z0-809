@@ -1,0 +1,7 @@
+8. Given a valid conn object of type Connection, what will happen if you run this code when the requested mode is not supported?
+
+conn.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
+
+
+
+E. The code will run without throwing an exception.

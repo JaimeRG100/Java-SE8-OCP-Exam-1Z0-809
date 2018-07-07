@@ -1,0 +1,4 @@
+16. Why shouldn’t every class be marked Serializable? (Choose all that apply.)
+
+D. The data of some classes cannot be easily serialized, such as those managing threads or processes.
+F. Classes that store most of their data in static fields would not be easily serialized.

@@ -1,0 +1,3 @@
+// terminal operations on the Stream class that are reductions:
+// A. collect()
+// B. count()

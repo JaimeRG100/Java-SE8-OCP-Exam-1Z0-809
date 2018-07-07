@@ -1,0 +1,6 @@
+B, C. 
+
+If the cast is to a superclass reference, then an explicit cast is not required, so C is correct. 
+
+If a method takes the superclass of an object as a parameter, then any subclass references may be used without a cast, so B is correct. 
+

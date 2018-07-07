@@ -1,0 +1,5 @@
+19. What are three advantages of the NIO.2 API over the legacy java.io.File class for working with files?
+
+A. NIO.2 supports file system–dependent attributes.
+C. NIO.2 allows you to traverse a directory tree directly.
+E. NIO.2 supports symbolic links.

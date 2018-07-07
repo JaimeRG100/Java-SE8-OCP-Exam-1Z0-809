@@ -1,0 +1,1 @@
+B, C, F. Options B, C, and F are each correct statements about JavaBean encapsulation.

@@ -1,0 +1,9 @@
+18. Which pairs fill in the blanks? The close() method is not allowed to throw
+a(n) _________________ in a class that implements _________________. (Choose all that apply.)
+
+
+B. Exception, Closeable
+
+
+
+// (Closeable can throw  IllegalStateException, because it is an RuntimeException )

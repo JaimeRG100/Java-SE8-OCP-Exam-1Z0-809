@@ -1,0 +1,11 @@
+1. Which interfaces or classes are in a database-specific JAR file? 
+(Choose all that apply.)
+
+B. Driver’s implementation
+F. Statement’s implementation
+
+
+
+The Driver, Connection, Statement, and ResultSet interfaces are part of the JDK 
+The concrete DriverManager class is also part of the JDK 
+The implementation of Driver and Statement interfaces is part of the database-specific driver JAR file.

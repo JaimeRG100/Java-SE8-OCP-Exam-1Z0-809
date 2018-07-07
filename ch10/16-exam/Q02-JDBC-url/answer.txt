@@ -1,0 +1,15 @@
+2. Which are required parts of a JDBC URL? (Choose all that apply.)
+
+A. Connection parameters
+B. Database name
+C. jdbc
+D. Location of database
+E. Port
+F. Password
+
+B, C. 
+A JDBC URL has three parts. 
+The first part is the string jdbc.
+The second part is the vendor/product name. 
+The third part is database specific, but it includes a database name. 
+The location, such as IP address and port, is optional.

@@ -1,0 +1,3 @@
+4. What file is required inside a JDBC 4.0+ driver JAR?
+
+E. META-INF/service/java.sql.Driver

@@ -1,0 +1,2 @@
+C is correct since a class may implement multiple interfaces. 
+F is correct as interface methods and variables are each assumed public.

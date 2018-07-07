@@ -1,0 +1,2 @@
+B. Comparator interface
+E. removeIf method on a Collection

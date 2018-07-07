@@ -1,0 +1,5 @@
+6. Which of the following are true? (Choose all that apply.)
+
+
+B. Class.forName() throws a ClassNotFoundException if the driver class is not found.
+E. DriverManager.getConnection() throws a SQLException if the driver class is not found.

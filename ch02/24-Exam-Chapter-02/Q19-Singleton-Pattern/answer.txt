@@ -1,0 +1,7 @@
+B, D, E. 
+
+B is correct, as caching data is one of the most common uses of the singleton pattern. 
+
+D is correct, as we only want one class writing to a log file at once.
+
+E is also correct, as managing application-wide configuration data is another very common use of the singleton pattern. 

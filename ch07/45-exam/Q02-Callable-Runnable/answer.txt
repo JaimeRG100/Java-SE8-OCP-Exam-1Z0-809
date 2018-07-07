@@ -1,0 +1,8 @@
+2. Which of the following statements about the Callable call() and Runnable run() methods are correct? (Choose all that apply.)
+
+A. Both can throw unchecked exceptions.
+
+C. Callable can throw a checked exception.
+D. Both can be implemented with lambda expressions.
+
+F. Callable returns a generic type.

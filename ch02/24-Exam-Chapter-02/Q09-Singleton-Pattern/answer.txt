@@ -1,0 +1,5 @@
+The public modifier on the cheetahManager instance means that any class can access or even replace the instance, 
+which breaks the singleton pattern; hence D is required to fix the implementation. 
+
+F is also required, since without this step two threads could create two distinct instances of the
+singleton at the same time, which would violate the singleton pattern.

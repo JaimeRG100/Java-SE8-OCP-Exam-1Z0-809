@@ -1,0 +1,1 @@
+Options C and E are correct statements about design principles and design patterns.

@@ -1,0 +1,4 @@
+Which of the following are true given the declaration IntStream is = IntStream.
+empty()?
+D. is.findAny() returns the type OptionalInt.
+E. is.sum() returns the type int.

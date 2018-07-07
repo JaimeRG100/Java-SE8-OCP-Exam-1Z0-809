@@ -1,0 +1,5 @@
+Immutable objects may not be modified after creation. B, C, and E are correct statements that support this property. 
+
+B. All of the instance variable marked private and final
+C. They don't define any setter method
+E. They prevent methods from being overriden

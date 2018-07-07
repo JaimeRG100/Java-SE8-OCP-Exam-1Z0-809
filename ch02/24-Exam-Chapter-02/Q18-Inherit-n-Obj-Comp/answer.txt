@@ -1,0 +1,7 @@
+A, B, E. 
+
+A is correct, and it is one of the reasons to prefer class inheritance over object composition. 
+
+B is also correct, since object composition tends to lead to classes that are easier to reference, as they don’t require knowledge of any parent classes. 
+
+E is correct, as object composition has no notion of inheritance and variables must be exposed publically if they are to be used by other classes in different packages. 

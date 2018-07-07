@@ -1,0 +1,3 @@
+12. Which is the correct order in which to close database resources?
+
+D. ResultSet, Statement, Connection

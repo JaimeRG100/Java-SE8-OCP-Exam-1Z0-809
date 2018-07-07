@@ -1,0 +1,3 @@
+B. Comparator is in the java.util package.
+D. compare() is in the Compartor interface.
+F. compare() takes two method parameters.

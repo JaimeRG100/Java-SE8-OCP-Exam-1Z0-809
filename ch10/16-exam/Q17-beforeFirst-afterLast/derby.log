@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 12 16:39:54 CST 2018:
+ Iniciando instancia a816c00e-0161-8c2c-ae2e-0000073887c0 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 
+en el directorio de base de datos C:\Jam\Java OCP8\16-exam\zoo con el cargador de clases sun.misc.Launcher$AppClassLoader@2503dbd3
+Cargado desde file:/C:/Program%20Files/Java/jdk1.8.0_151/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Jam\Java OCP8\16-exam\Q17-beforeFirst-afterLast
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''

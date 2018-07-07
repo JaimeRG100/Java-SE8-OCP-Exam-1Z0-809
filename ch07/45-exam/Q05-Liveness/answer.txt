@@ -1,0 +1,5 @@
+5. Fill in the blanks: ________ occur(s) when two or more threads are blocked forever but
+both appear active. ________ occur(s) when two or more threads try to complete a related
+task at the same time.
+
+D. Livelock, Race conditions

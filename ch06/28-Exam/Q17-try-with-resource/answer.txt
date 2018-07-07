@@ -1,0 +1,4 @@
+17. Fill in the blank: A class that implements _________________ may be in a try-with-resource statement. 
+
+A. AutoCloseable
+B. Closeable
